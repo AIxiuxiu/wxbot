@@ -32,6 +32,7 @@ from tempfile import NamedTemporaryFile
 from wxpy import *
 from wxpy.utils import ensure_list, start_new_thread
 
+#  黑名单 和 投票踢人 
 from kick_votes import KickVotes
 from timed_list import TimedList
 
